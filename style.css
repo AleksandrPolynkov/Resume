@@ -1,0 +1,289 @@
+body {
+    display: flex;
+    width: 70%;
+    margin: 20px auto;
+}
+body h2 {
+    color: #32CD32;
+}
+.conteinerleft {
+    width: 35%;
+}
+.imgblock {
+    background-color: #32CD32;
+}
+h1, h2, h3, h4 {
+    text-transform: uppercase;
+}
+.conteinerleft img {
+    width: 100%;
+}
+.heading {
+    color: #FFFFFF;
+    background-color: #32CD32;
+    text-align: center;
+    padding: 10px 10px;
+}
+.heading h1 {
+    margin: 0px;
+    font-size: 16pt;
+}
+.heading h3 {
+    margin: 0px;
+    font-size: 12pt;
+}
+.info {
+    background-color: #383737;
+    padding: 15px;
+}
+.rectangle {
+    margin-bottom: 30px;
+}
+h2 {
+    margin-bottom: 5px;
+}
+.info p {
+    color: #A9A9A9;
+}
+.rectangle {
+    width: 100%;
+    height: 3px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: end;
+}
+.left {
+    width: 25%;
+    height: 100%;
+    border: 2px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.right {
+    width: 75%;
+    height: 100%;
+    border-bottom: 2px solid #A9A9A9;
+}
+.content {
+    display: flex;
+    height: 35px;
+    align-items: center;
+}
+.content a {
+    text-decoration: none;
+    color: #A9A9A9;
+}
+.icon {
+    margin-right: 10px;
+    font-size: 8pt;
+    color: #696969;
+}
+.levels {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 25px;
+}
+.skills .paragraf {
+    width: 49%;
+}
+.line {
+    width: 49%;
+    height: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.leftline {
+    width: 50%;
+    height: 100%;
+    border: 2px solid #32CD32;
+    background-color: #32CD32;
+}
+.rightline {
+    width: 50%;
+    height: 100%;
+    border: 2px solid #A9A9A9;
+    background-color: #A9A9A9;
+}
+.leftlineWordPress {
+    width: 5%;
+    height: 100%;
+    border: 2px solid #32CD32;
+    background-color: #32CD32;
+}
+.rightlineWordPress {
+    width: 95%;
+    height: 100%;
+    border: 2px solid #A9A9A9;
+    background-color: #A9A9A9;
+}
+.leftlineHTML {
+    width: 30%;
+    height: 100%;
+    border: 2px solid #32CD32;
+    background-color: #32CD32;
+}
+.rightlineHTML {
+    width: 70%;
+    height: 100%;
+    border: 2px solid #A9A9A9;
+    background-color: #A9A9A9;
+}
+.leftlineiQuery {
+    width: 5%;
+    height: 100%;
+    border: 2px solid #32CD32;
+    background-color: #32CD32;
+}
+.rightlineiQuery {
+    width: 95%;
+    height: 100%;
+    border: 2px solid #A9A9A9;
+    background-color: #A9A9A9;
+}
+.leftlinePhotoshop {
+    width: 5%;
+    height: 100%;
+    border: 2px solid #32CD32;
+    background-color: #32CD32;
+}
+.rightlinePhotoshop {
+    width: 95%;
+    height: 100%;
+    border: 2px solid #A9A9A9;
+    background-color: #A9A9A9;
+}
+.leftlineillustrator {
+    width: 5%;
+    height: 100%;
+    border: 2px solid #32CD32;
+    background-color: #32CD32;
+}
+.rightlineillustrator {
+    width: 95%;
+    height: 100%;
+    border: 2px solid #A9A9A9;
+    background-color: #A9A9A9;
+}
+.leftlinemarketing {
+    width: 5%;
+    height: 100%;
+    border: 2px solid #32CD32;
+    background-color: #32CD32;
+}
+.rightlinemarketing {
+    width: 95%;
+    height: 100%;
+    border: 2px solid #A9A9A9;
+    background-color: #A9A9A9;
+}
+.leftlineCreativity {
+    width: 50%;
+    height: 100%;
+    border: 2px solid #32CD32;
+    background-color: #32CD32;
+}
+.rightlineCreativity {
+    width: 50%;
+    height: 100%;
+    border: 2px solid #A9A9A9;
+    background-color: #A9A9A9;
+}
+.leftlineCommunitation {
+    width: 50%;
+    height: 100%;
+    border: 2px solid #32CD32;
+    background-color: #32CD32;
+}
+.rightlineCommunitation {
+    width: 50%;
+    height: 100%;
+    border: 2px solid #A9A9A9;
+    background-color: #A9A9A9;
+}
+.leftlineTeamwork {
+    width: 50%;
+    height: 100%;
+    border: 2px solid #32CD32;
+    background-color: #32CD32;
+}
+.rightlineTeamwork {
+    width: 50%;
+    height: 100%;
+    border: 2px solid #A9A9A9;
+    background-color: #A9A9A9;
+}
+.conteinerright {
+    width: 65%;
+    background-color: #DCDCDC;
+    color: #3a3939;
+    padding: 15px;
+    display: block;
+    
+}
+.about {
+    margin-bottom: 30px;
+}
+.conteinerright .left {
+    width: 25%;
+    height: 100%;
+    border: 2px solid #696969;
+    background-color: #696969;
+}
+.work {
+    margin-bottom: 30px;
+}
+.work h3 {
+    margin: 0px;
+}
+.work p {
+    margin-top: 0px;
+}
+.peoples {
+    display: flex;
+
+}
+.peoples h4 {
+    margin: 0px;
+}
+.peoples p {
+    margin: 0px;
+}
+.people {
+    width: 49%;
+}
+.references {
+    margin-bottom: 30px;
+}
+.formbox {
+    display: flex;
+}
+form {
+    display: block;
+    margin-right: 10px;
+    width: 50%;
+    height: 100%;
+}
+input, textarea {
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 16px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+    border: 1px solid #32CD32;
+    border-radius: 5px;
+}
+textarea{
+    height: 100px;
+}
+fieldset {
+    border: 2px solid #32CD32;
+    color: #32CD32;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+.map {
+    width: 50%;
+}
